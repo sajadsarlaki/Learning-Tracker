@@ -1,2 +1,7 @@
-# Learning-Tracker
-A repository to track all my academic papers, courses, and learning progress.
+# My Learning Tracker  
+This repository tracks my progress in studying academic papers, completing courses, and exploring new resources.  
+## Contents  
+- [Papers](./Papers)  
+- [Courses](./Courses)  
+- [Resources](./Resources)
+- 
