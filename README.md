@@ -4,4 +4,3 @@ This repository tracks my progress in studying academic papers, completing cours
 - [Papers](./Papers)  
 - [Courses](./Courses)  
 - [Resources](./Resources)
-- 
